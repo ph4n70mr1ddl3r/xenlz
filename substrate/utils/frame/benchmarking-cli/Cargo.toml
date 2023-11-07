@@ -53,7 +53,7 @@ sp-storage = { path = "../../../primitives/storage" }
 sp-trie = { path = "../../../primitives/trie" }
 sp-io = { path = "../../../primitives/io" }
 sp-wasm-interface = { path = "../../../primitives/wasm-interface" }
-gethostname = "0.2.3"
+gethostname = "0.4.3"
 
 [features]
 default = [ "rocksdb" ]
